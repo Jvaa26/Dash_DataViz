@@ -1,5 +1,5 @@
 # Geolocalization Dashboard
-# This is a Python project that generates a web-based dashboard for exploring geolocalization data in Brazil. It uses the Dash framework for building the dashboard and Plotly for generating the visualizations.
+This is a Python project that generates a web-based dashboard for exploring geolocalization data in Brazil. It uses the Dash framework for building the dashboard and Plotly for generating the visualizations.
 
 # Project Structure
 The project consists of the following files:
@@ -18,8 +18,9 @@ To run the project, you need to have Python 3.x installed on your machine, as we
 * pandas
 * plotly
 
-You can install these packages by running the following command:
-pip install dash dash_bootstrap_components pandas plotly
+You can install these packages by running the following commands:
+pip install pipreqs
+pipreqs paht/to/requeriments.txt
 
 # Usage
 To run the app, simply run the app.py script in a Python environment with the required packages installed. The app will start running on a local web server, and you can access it by navigating to the URL provided by the console output.
