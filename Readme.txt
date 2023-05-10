@@ -1,5 +1,5 @@
-Geolocalization Dashboard
-This is a Python project that generates a web-based dashboard for exploring geolocalization data in Brazil. It uses the Dash framework for building the dashboard and Plotly for generating the visualizations.
+#Geolocalization Dashboard
+#This is a Python project that generates a web-based dashboard for exploring geolocalization data in Brazil. It uses the Dash framework for building the dashboard and #Plotly for generating the visualizations.
 
 Project Structure
 The project consists of the following files:
